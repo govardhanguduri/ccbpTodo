@@ -1,0 +1,19 @@
+
+FOOD MUNCH = https://govardhanweb.ccbp.tech/
+
+TODO = http://127.0.0.1:3004/todo.html
+
+SWIGGY CLONE = [https://govardhanfood.ccbp.tech/ ]
+
+app=https://govaappstore.ccbp.tech
+
+GITHUB_PROFILES = https://githubprofiles.ccbp.tech/
+
+shopping =https://govardhanshop.ccbp.tech/products
+
+shopping_crat= https://govardhancart.ccbp.tech
+
+jobapp =[ https://govardhanjobapp.ccbp.tech ]
+
+React_courses = [https://Reactcourses.ccbp.tech]
+
